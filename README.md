@@ -1,6 +1,9 @@
 ##Project Name: AI Project
+<br>
 ##DB NAME: artificial_intelligence_db
+<br>
 ##TABLE NAME: artificials
+<br>
 ##Database type used: MYSQL
 
 <p><b>Developed by: </b>Joshua Algadipe</p>
