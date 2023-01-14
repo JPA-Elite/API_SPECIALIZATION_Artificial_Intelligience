@@ -1,5 +1,8 @@
 ##Project Name: AI Project
-##DB NAME: artificials
+##DB NAME: artificial_intelligence_db
+##TABLE NAME: artificials
+##Database type used: MYSQL
+
 <p><b>Developed by: </b>Joshua Algadipe</p>
 <br>
 <p>*Developing project in the Visual Studio Code</p>
